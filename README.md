@@ -1,5 +1,7 @@
+![GitHub language count](https://img.shields.io/github/languages/count/CodeXfull/Projeto-Piscina) ![GitHub top language](https://img.shields.io/github/languages/top/CodeXfull/Projeto-Piscina) 
+
 # Projeto-Piscina
-Python &amp; SQLite3
+Esse projeto é para automatizar uma piscina, isto é, ligar o motor e as luzes com um sonoff por meio de integração Python e banco de dados SQLite. Esse é o primeiro escopo do projeto e teste com o Python. 
 
 ## Sou iniciante em programação em Python, com certeza existem maneiras melhores de fazer essa manipulaçao com o sqlite. Foi o jeito que encontrei e esse é meu 1º projeto.
 
@@ -7,7 +9,7 @@ Python &amp; SQLite3
 ![Importando Banco](https://github.com/CodeXfull/Projeto-Piscina/blob/master/arquivos/importar.png)
 
 ### 2º salvar o banco de dados em uma pasta dentro do seu pc
-Ela vai servir para o banco de dados gerado ser criado em uma pasta do seu pc e seus dados ficarem armazenado. No meu caso coloquei dentro do Google Drive pq já faz a sincronização com a nuvem.
+Ela vai servir para que o banco de dados gerado seja criado dentro de uma pasta do seu pc e seus dados ficarem armazenados. No meu caso coloquei dentro do Google Drive pq já faz a sincronização com a nuvem.
 
 ![criando a conexão](https://github.com/CodeXfull/Projeto-Piscina/blob/master/arquivos/python.gif)
 
