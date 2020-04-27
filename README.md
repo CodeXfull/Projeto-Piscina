@@ -61,4 +61,4 @@ Lembrando que esse método que está apresentado abaixo é se vc quer pegar entr
  
  ![login](https://github.com/CodeXfull/Projeto-Piscina/blob/master/arquivos/fazer_login.png)
  
- 
+ ### Dica de ouro: para abrir o banco de dados online e ver se tudo esta funcionando [SQL online](https://sqliteonline.com/)
