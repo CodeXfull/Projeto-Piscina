@@ -2,6 +2,7 @@
 Banco de Dados - Eng. De Software
 Programador: Éverton 
 Data: 15/04/2020
+Alteração 
 """
 import sqlite3  # importar o banco de dados em python
 import random as r
