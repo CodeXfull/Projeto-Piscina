@@ -3,7 +3,7 @@
 # Projeto-Piscina
 Esse projeto é para automatizar uma piscina, isto é, ligar o motor e as luzes com um sonoff por meio de integração Python e banco de dados SQLite. Esse é o primeiro escopo do projeto e teste com o Python. 
 
-## Sou iniciante em programação em Python, com certeza existem maneiras melhores de fazer essa manipulaçao com o sqlite. Foi o jeito que encontrei e esse é meu 1º projeto.
+## Sou iniciante em programação em Python, esse é meu 1º projeto.
 
 ### 1º importe o sqlite no Python. Lembrando que ele é built-in.
 ![Importando Banco](https://github.com/CodeXfull/Projeto-Piscina/blob/master/arquivos/importar.png)
